@@ -1,0 +1,36 @@
+﻿  problems.cpp
+E:\c++\numbering system converter\problems.cpp(160,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\c++\numbering system converter\problems.cpp(170,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\c++\numbering system converter\problems.cpp(176,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\c++\numbering system converter\problems.cpp(186,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\c++\numbering system converter\problems.cpp(192,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\c++\numbering system converter\problems.cpp(203,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\c++\numbering system converter\problems.cpp(219,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\c++\numbering system converter\problems.cpp(224,33): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+E:\c++\numbering system converter\problems.cpp(234,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\c++\numbering system converter\problems.cpp(258,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\c++\numbering system converter\problems.cpp(291,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\c++\numbering system converter\problems.cpp(296,32): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+E:\c++\numbering system converter\problems.cpp(297,36): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+E:\c++\numbering system converter\problems.cpp(298,37): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+E:\c++\numbering system converter\problems.cpp(299,37): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+E:\c++\numbering system converter\problems.cpp(300,37): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+E:\c++\numbering system converter\problems.cpp(301,37): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+E:\c++\numbering system converter\problems.cpp(302,37): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+E:\c++\numbering system converter\problems.cpp(341,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\c++\numbering system converter\problems.cpp(346,32): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+E:\c++\numbering system converter\problems.cpp(347,37): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+E:\c++\numbering system converter\problems.cpp(348,37): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+E:\c++\numbering system converter\problems.cpp(349,37): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+E:\c++\numbering system converter\problems.cpp(350,37): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+E:\c++\numbering system converter\problems.cpp(351,37): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+E:\c++\numbering system converter\problems.cpp(352,37): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+E:\c++\numbering system converter\problems.cpp(353,37): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+E:\c++\numbering system converter\problems.cpp(354,37): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+E:\c++\numbering system converter\problems.cpp(355,38): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+E:\c++\numbering system converter\problems.cpp(356,38): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+E:\c++\numbering system converter\problems.cpp(357,38): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+E:\c++\numbering system converter\problems.cpp(358,38): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+E:\c++\numbering system converter\problems.cpp(359,38): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+E:\c++\numbering system converter\problems.cpp(360,38): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  problems.vcxproj -> E:\c++\numbering system converter\x64\Debug\problems.exe
